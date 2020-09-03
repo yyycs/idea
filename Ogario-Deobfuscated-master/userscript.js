@@ -18,7 +18,7 @@ if (location.host === "agar.io" && location.pathname === "/") {
 
 function inject(page) {
     page = page.replace('<head>', '<head><script src="https://bundle.run/buffer@5.2.1"></script><script src="https://yyycs.github.io/Ogario-Deobfuscated-master/vendor.js"></script>');
-    page = page.replace('https://cdn.ogario.ovh/v4/beta/ogario.v4.js', 'https://yyycs.github.io/Ogario-Deobfuscated-master/ogario.js');
+    page = page.replace('https://cdn.ogario.ovh/v4/beta/ogario.v4.js', 'https://yyycs.github.io/Ogario-Deobfuscated-master/OGARio.core.js');
     return page;
 }
 
