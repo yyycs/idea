@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         OGARio by szymy v4 || Deobfuscated
+// @name         Free Agar.io Bots (OGARio Version)
 // @namespace    ogario.v4.b
 // @version      4.0.0.35
-// @description  Unoffical Polish MOD
-// @author       szymy, ReF
+// @description  Free open source agar.io bots with OGARio
+// @author       Nel & szymy (OGARio deobfuscated by ReFisGood)
 // @match        *://agar.io/*
 // @run-at       document-start
 // @grant        GM_xmlhttpRequest
