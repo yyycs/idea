@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Free Agar.io Bots (OGARio Version)
+// @name         Free Agar.io Bots (OGARioFix Version)
 // @namespace    ogario.v4.b
 // @version      4.0.0.35
 // @description  Free open source agar.io bots with OGARio
